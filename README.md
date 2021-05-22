@@ -1,12 +1,12 @@
 # PyBer Analysis
 
-## Overview of Pyber Analyss
+## Overview of Pyber Analysis
 
 ### Purpose
 
-The purpose of this analysis is to use Pandas to analyze ride-sharing data collected for January 2019 to May 2019 in Urban, Suburban, and Rural cities . 
+The purpose of this analysis is to analyze ride-sharing data collected for January 2019 to May 2019 in Urban, Suburban, and Rural cities . 
 
-Using the data sets city_data.csv, and ride_data.csv we will determine:
+Using Pandas and the data sets city_data.csv, and ride_data.csv we will determine:
 
 - the total rides, drivers, and fares for Urban, Suburban, and Rural cities, 
 - the average fare per ride in Urban, Suburban, and Rural cities,
