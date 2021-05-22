@@ -19,10 +19,12 @@ Using the data sets city_data.csv, and ride_data.csv we will determine:
 The total amount of drivers, rides, and fares were determined based on the type of city the ride took place in. The average fare per ride by city type as well as the average fare per driver by city type was also calculated.
 
 We can see the results displayed in the figure below:
-<insert image>
+<p align="center">
+<img src=https://github.com/smanowar/PyBer_Analysis/blob/main/analysis/pyber_totals_avg_summary.PNG> 
+</p>
  Fig. 1
  
-Starting with the first column, we can see that the vast majority of rides occourred in Urban cities, with 1625 rides happening there, followed by Suburban cities, with 625 rides and lastly   by Rural with 125 rides taking place. 
+Starting with the first column, we can see that the vast majority of rides occourred in Urban cities, with 1625 rides happening there, followed by Suburban cities, with 625 rides and lastly by Rural with 125 rides taking place. 
 The total drivers also differ significantly based on city type, with Urban cities having 2405 drivers, Suburban cities with about one fifth the amount with 490 drivers, and 78 drivers in Rural cities. The large difference in these numbers are reflected in the Average Fare per Ride and Average Fare per Driver. Rural cities had the highest averages in both categories, averaging fares of $34.62 per ride, and $55.49 per driver - with total fares being $4327.93.
 Next is Suburban cities, bringing a total fare of $19,356.33 Suburban cities averaged $30.97 per ride and $39.50 per driver.
 Lastly is Urban cities, with fares totaling $39,854.38 - they say an average of $24.53 per ride and $16.57 per driver.
@@ -35,7 +37,7 @@ In the time period between January 1 2019 to April 29th 2019, we can see the tre
 </p>
 Fig. 2
 
- 
+Ridership is somewhat consistent in Rural cities, 
 
 ## PyBer Analysis Summary
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
