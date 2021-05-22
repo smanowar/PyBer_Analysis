@@ -25,7 +25,12 @@ We can see the results displayed in the figure below:
  Fig. 1
  
 Starting with the first column, we can see that the vast majority of rides occourred in Urban cities, with 1625 rides happening there, followed by Suburban cities, with 625 rides and lastly by Rural with 125 rides taking place. 
-The total drivers also differ significantly based on city type, with Urban cities having 2405 drivers, Suburban cities with about one fifth the amount with 490 drivers, and 78 drivers in Rural cities. The large difference in these numbers are reflected in the Average Fare per Ride and Average Fare per Driver. Rural cities had the highest averages in both categories, averaging fares of $34.62 per ride, and $55.49 per driver - with total fares being $4327.93.
+
+The total drivers also differ significantly based on city type, with Urban cities having 2405 drivers, Suburban cities with about one fifth the amount with 490 drivers, and 78 drivers in Rural cities. 
+
+The large difference in these numbers are reflected in the Average Fare per Ride and Average Fare per Driver:
+
+Rural cities had the highest averages in both categories, averaging fares of $34.62 per ride, and $55.49 per driver - with total fares being $4327.93.
 Next is Suburban cities, bringing a total fare of $19,356.33 Suburban cities averaged $30.97 per ride and $39.50 per driver.
 Lastly is Urban cities, with fares totaling $39,854.38 - they say an average of $24.53 per ride and $16.57 per driver.
  
@@ -37,8 +42,12 @@ In the time period between January 1 2019 to April 29th 2019, we can see the tre
 </p>
 Fig. 2
 
-Ridership is somewhat consistent in Rural cities, 
+Total Fare is somewhat consistent for the time period being analyzed, 
+
+ - Rural cities fluctuating between x and y, peaking in April at $x and a low in _    at $
+ - Suburban cities flucutating between _____, peaking in ____at $ and a low in _ at $
+ - and lastly, Urban cities fluctuating between ___, peaking in __ and a low in__ 
 
 ## PyBer Analysis Summary
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+
