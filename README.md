@@ -50,8 +50,8 @@ There is a slight fluctuation in the Total Fare for the time period being analyz
 
 From the results summarized above we can see that there are very large differences in fares, ridership, and drivers between the three city types. Urban cities have the vast majority of ridership, the largest amount of fares, and the most drivers between the three. Based on these results the following reccomendations can be made:
 
-- A focus should be placed increasing drivers in Rural areas. There is not a huge difference in the average fare per ride between Rural and Urban city types, but there is a very large difference in the average fare per driver between the two. 
+- A focus should be placed increasing ridership in Rural areas as determined from our analysis of total fares by week. The total fare was at its lowest the week of January 13th, with fares totaling $67.65 - based on our average fare per ride this means that about 2 rides took place that week. 
 
-- A similar argument could be made for Suburban cities. Even though their numbers are higher than Rural cities, they are still much lower than the results from Urban cities.
+- A similar argument could be made for Suburban cities. Even though their numbers are higher than Rural cities, they are still much lower than the results from Urban cities. As there is huge potential for growth a focus could be placed in Suburban cities to maximize the ridership in these areas. 
 
 - Although the average fare per driver is less than half the average fare per drivers in Suburban cities and three times less the average fare per driver in Rural areas, the total amount of rides in Urban cities are much higher. Therefore, although the average fare per ride is lower, the drivers are completing more rides - as reflected in the high amount of total fares. A focus should be placed on protecting the average fare per driver in Urban areas; if the average fare drops too low it can discourage drivers from working in Urban cities. 
